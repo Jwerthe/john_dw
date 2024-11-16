@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 10px;
+    height: 300px;
+    width: 200px;
+    margin-top: 50px;
+}
+
+.aces {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;  
+}
+
+.spades {
+    font-size: 80px;
+}
+
+.spades2 {
+    font-size: 30px;
+}
+
+.spades3 {
+    font-size: 30px;
+}
